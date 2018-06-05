@@ -1,4 +1,4 @@
-create database tarefa;
+/*create database tarefa;
 
 use tarefa;
 
@@ -11,6 +11,6 @@ CREATE TABLE IF NOT EXISTS `tarefa` (
 
 select * from tarefa;
 
-insert into tarefa (id, titulo, descricao) values ("1", "Projeto", "Fazer o projeto de chicout");
+insert into tarefa (id, titulo, descricao) values ("1", "CaféSAoBraz", "Excelente Cafe, mas Caro");
 
-insert into tarefa (id, titulo, descricao) values ("2", "Mobile", "Fazer o projeto de melo");
+insert into tarefa (id, titulo, descricao) values ("2", "Delta", "Excelente Custo Benefício");
